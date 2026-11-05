@@ -1,5 +1,7 @@
 ---
-title: "emmabrad.github.io2"
+title: "About me!"
+about: 
+  template: solana
 ---
 
 This is a Quarto website.

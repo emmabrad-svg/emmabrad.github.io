@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "emmabrad.github.io"
+  title: "Emma Bradbury's Webpage"
   navbar:
     left:
       - href: index.qmd
@@ -13,7 +13,7 @@ website:
 format:
   html:
     theme:
-      - cosmo
+      - lumen
       - brand
     css: styles.css
     toc: true
